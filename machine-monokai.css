@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 :root {
-    --bg-color: #272822;
+    --bg-color: #2E373C;
+    --color-pink:   #F95788;
+    --color-green:  #A2E35B;
+    --color-yellow: #FFE97F;
+    --color-orange: #FBB072;
+    --color-purple: #B2A4F7;
+    --color-teal:   #6BD5E1;
+
     --blur-text-color: #333333;
     --control-text-color: #C8C8C8;
     --select-text-bg-color: #a2a192;
@@ -13,8 +20,8 @@
 
 html {
     size: auto;
-    font-size: 13px;
-    background-color: #1A1A1D;
+    font-size: 16px;
+    background-color: var(--bg-color);
     color: #C5C6C7;
 }
 
@@ -62,10 +69,6 @@ code {
     font-family: 'Inconsolata', monospace;
 }
 
-mark {
-    background-color: #fff;
-}
-
 blockquote {
     border-left: 7px solid #424241;
     padding: 5px 10px;
@@ -88,12 +91,6 @@ li {
 p>.md-image:only-child:not(.md-img-error) img,
 p>img:only-child {
     margin: 0;
-}
-
-mark {
-    padding: 1px 2px;
-
-    background-color: #78DCE8;
 }
 
 table {
@@ -307,7 +304,7 @@ hr {
 
 @media screen and (max-width: 425px) {
     html {
-        font-size: 10px;
+        font-size: 14px;
     }
     #write {
         padding: 20px 3ch;
@@ -320,7 +317,7 @@ hr {
 
 @media screen and (max-width: 320px) {
     html {
-        font-size: 10px;
+        font-size: 14px;
     }
     #write {
         padding: 5px 2ch;

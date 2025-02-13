@@ -1,22 +1,5 @@
-# Monokai Theme
+This is a fork of the original [light-monokai](https://github.com/valfur03/Monokai-Theme-for-Typora) theme created by valfur03 for Typora (which is itself inspired by the well-known Monokai theme by Wimer Hazenberg).
 
-This is my theme inspired from the Monokai (created by [Wimer Hazenberg](https://github.com/monokai)). It is supposed to be finished. However, if you see something incorrect, or hideous, you can still make your own changes.
+I personally really enjoy using the Monokai Machine filter on VSCode so I decided to recreate something similar on Typora (maybe one day there will be an official Typora Monokai theme!). I changed the colors to more closely match the Machine filter and I also increased the font size as I found the original light-monokai font sizes were a bit too small for my liking.
 
-##	Installation
-
-Download this repository anywhere on your computer.
-
-```shell
-git clone https://github.com/valfur03/Monokai-Theme-for-Typora
-```
-
-Open Typora and go into the preference panel. Select `Appearance` and click on `Open Theme Folder`.
-
-Move the `light-monokai.css` file into the Typora's Themes Folder.
-
-Restart Typora, and select your newly downloaded Theme from the menu bar.
-
-##	Contribution
-
-If you wish to, you are free to contribute on this repository. Just follow [this guide](https://github.com/firstcontributions/first-contributions).
-
+Enjoy!
