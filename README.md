@@ -4,6 +4,6 @@ I personally really enjoy using the Monokai Machine filter on VSCode so I decide
 
 Enjoy!
 
-![](/Users/cosroe/Documents/GitHub/Monokai-Theme-for-Typora/1.png)
+![1](1.png)
 
-![](/Users/cosroe/Documents/GitHub/Monokai-Theme-for-Typora/2.png)
+![2](2.png)
